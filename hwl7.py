@@ -1,7 +1,3 @@
-from encodings.punycode import selective_find
-from sys import int_info
-
-
 class Phone:
     brand: str
     model: str
